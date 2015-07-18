@@ -1,0 +1,20 @@
+{
+  "name": "benchmark-koa-express",
+  "version": "1.0.0",
+  "description": "Hello World benchmark to compare Koa vs Express performance",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Koa",
+    "Express",
+    "benchmark"
+  ],
+  "repository": "rkmax/benchmark-koa-express",
+  "author": "Julian Reyes Escrigas <julian.reyes.escrigas@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.1",
+    "koa": "^0.21.0"
+  }
+}
